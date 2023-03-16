@@ -55,4 +55,4 @@ How to use command line arguments with your Python programs
 ---
 
 ## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
+* **Faith Kimongo** - [Faith](https://github.com/Faith-Kimongo)

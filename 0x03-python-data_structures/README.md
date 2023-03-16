@@ -81,4 +81,4 @@ Since we now know a bit of C, we can look at what is happening under the hood of
 ---
 
 ## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
+* **Faith Kimongo** - [Faith](https://github.com/Faith-Kimongo)
