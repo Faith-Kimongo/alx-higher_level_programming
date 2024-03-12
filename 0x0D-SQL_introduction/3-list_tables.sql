@@ -1,0 +1,2 @@
+-- create tables
+SHOW tables;
