@@ -9,14 +9,14 @@ import sys
 if __name__ == '__main__':
     """
     execute only when run as main
-    Arguments : Gitub username and psw uses Github API
+    Arguments : Gitub username and pwd uses Github API
     Return User ID
     """
     argv = sys.argv
     if len(argv) == 3:
         """
         first argument username
-        second argument pswd
+        second argument pwd
         """
         username = argv[1]
         password = argv[2]
